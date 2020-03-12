@@ -1,0 +1,10 @@
+For aerial use:
+
+yolov3-aerial.weights
+yolo_aerial_cfg.cfg
+
+
+For Side angle use:
+
+yolov3.weights
+yolov3.cfg
